@@ -3,7 +3,7 @@
 
 [*Adalaber promo Betty*](https://adalab.es/bootcamp-programacion/)
 
-Soy **desarrolladora frontend junior** y recientemente he hecho una emocionante transición profesional hacia el mundo del desarrollo web. Después de años en un laboratorio de análisis clínicos, decidí seguir mi pasión por la tecnología y el diseño web, lo que me llevó a estudiar un bootcamp de programación en **Adalab**.
+Soy **desarrolladora fullstack junior** y recientemente he hecho una emocionante transición profesional hacia el mundo del desarrollo web. Después de años en un laboratorio de análisis clínicos, decidí seguir mi pasión por la tecnología y el diseño web, lo que me llevó a estudiar un bootcamp de programación en **Adalab**.
 
 
 
