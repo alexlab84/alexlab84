@@ -1,40 +1,25 @@
 ## ¡Hola! Soy Alejandra 👋
 
+Soy **Frontend Developer** especializada en crear experiencias digitales atractivas, funcionales y de alto rendimiento. Mi enfoque principal es el desarrollo web y la optimización de interfaces (UX/UI y CRO), asegurando siempre la mejor experiencia de usuario en cada producto que construyo.
 
-[*Adalaber promo Betty*](https://adalab.es/bootcamp-programacion/)
+💻 **Lo que hago:**
+- **Desarrollo Web a Medida:** Creación de aplicaciones escalables e interfaces dinámicas con **React** y **JavaScript**.
+- **E-Commerce & WordPress:** Gestión integral, desarrollo y optimización de tiendas online con **WooCommerce** y **Elementor**, enfocándome en el rendimiento y la conversión (CRO) en marcas premium como *Lucio J&M*.
+- **Trabajo en Equipo:** Experiencia colaborando bajo metodologías ágiles (Scrum) en proyectos de gran impacto, como la plataforma *eTrivium* y la web oficial de *La Velada del Año V* (junto a Midudev).
 
-Soy **desarrolladora fullstack junior** y recientemente he hecho una emocionante transición profesional hacia el mundo del desarrollo web. Después de años en un laboratorio de análisis clínicos, decidí seguir mi pasión por la tecnología y el diseño web, lo que me llevó a estudiar un bootcamp de programación en **Adalab**.
+Siempre busco nuevos retos tecnológicos que me permitan seguir aportando valor, escribiendo código limpio y diseñando soluciones que hagan la web más accesible y efectiva.
 
+### 🛠️ Tecnologías y Herramientas
 
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="margin-right:10px;"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="margin-right:10px;"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin-right:10px;"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="margin-right:10px;"/> </a> 
+  <a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="45" height="45" style="margin-right:10px;"/> </a>
+  <a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="45" height="45" style="margin-right:10px;"/> </a> 
+</p>
 
-Durante mi formación he adquirido habilidades en **HTML, CSS, JavaScript**, y frameworks como **React**, además de aprender practicas de desarrollo y trabajo en equipo bajo metodología **agile** y **scrum**. Mi objetivo es crear interfaces intuitivas y accesibles que brinden una buena experiencia de usuario.
-
-
-
-Estoy emocionada por los retos que vienen ahora y con ganas de seguir aprendiendo, creciendo y contribuyendo a proyectos que hagan la web más atractiva y funcional.
-
-
-
-
-
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-   <a href="" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="gulp" width="60" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> </p>
-
-
-
-
-<!--
-**alexlab84/alexlab84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Cómo contactarme:**
+- 💼 [Mi Portfolio](https://alexlab84.github.io/Mi_Portfolio/)
+- 🔗 [Mi LinkedIn](https://www.linkedin.com/in/alexlab84/)
